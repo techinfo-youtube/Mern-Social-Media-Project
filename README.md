@@ -1,6 +1,7 @@
 # Mern STack  - Social Media Application (Nextjs|Node|Express|Socket|Mongodb|...More)
 This Project was created by Techinfoy Youtube Channel.
-here tutorial List:
+here tutorial Link
+https://youtube.com/playlist?list=PLuHGmgpyHfRzxfDjKiO-ZLr065FWEmiiI
 
 # PLease Note ********
 - This Project Has Multiple Branches Based on Video no Wise,
