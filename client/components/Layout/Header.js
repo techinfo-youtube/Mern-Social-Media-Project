@@ -37,7 +37,7 @@ const Header = () => {
                 </Link>
               </li>
               <li className="nav-item">
-                <Link href="/regsiter">
+                <Link href="/register">
                   <a className="nav-link active" aria-current="page">
                     Register
                   </a>

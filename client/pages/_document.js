@@ -4,6 +4,11 @@ export default function Document() {
   return (
     <Html>
       <Head>
+        <meta charSet="UTF-8" />
+        {/* <meta name="description" content="Free Web tutorials" />
+          <meta name="keywords" content="HTML, CSS, JavaScript" />
+          <meta name="author" content="John Doe" /> */}
+
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
         <link
           href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
