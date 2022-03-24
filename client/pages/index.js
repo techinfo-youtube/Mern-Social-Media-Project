@@ -1,6 +1,6 @@
 import styles from "../styles/Home.module.css";
 import Layout from "../components/Layout/index.js";
-
+import "react-toastify/dist/ReactToastify.css";
 export default function Home() {
   return (
     <Layout>
